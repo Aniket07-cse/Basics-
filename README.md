@@ -1,2 +1,2 @@
 # Basics-
-These are my basic programs while i was in my learning C program for the first time.
+These are my basic programs while i was  learning C program for the first time.
